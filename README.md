@@ -1,11 +1,13 @@
-# Hi there! 👋 I'm Anzhelika
+<div align="center"><h1>Hi there! 👋 I'm Anzhelika</h1>
+<h3>🚀 Software Developer | 3D Code Magician 🎩✨</h3>
 
-💻 Software Developer with experience in Game Development and Web Development <br/>
-🎓 Studied Computer Programming / Analysis at the Conestoga College, Canada <br/>
+I turn bugs into features (totally on purpose). If it involves ReactJS, Three.js, TypeScript, or Unity & C#, I’m 100% on board.</br></br>
 
-![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=tokyonight)
 
-## 💻Tech Stack
+![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=algolia)
+</div>
+
+## 💪🏻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,10 +41,16 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-🥋 Fun Fact:
-I love karate! 🥋
+## 💻 What I Do
+- 🎮 Digital Learning Experiences – Because learning should be more fun than reading 500-page docs!
+- 🌐 Web Development – Making the internet cooler one div at a time.
+- 🎨 3D & Game Development – Because why build a button when you can build an entire world?
 
-📫 Connect with Me:<br/>
-- Portfolio: [Anzhelika Kostyuk](https://a-coderr.github.io/three_portfolio/)<br/>
-- LinkedIn: [Anzhelika Kostyuk](https://www.linkedin.com/in/anzhelikakostyuk/)<br/>
-- GitHub: Well, you're already here! 😄
+## 😁 Fun Facts:
+- 🥋 I can karate chop bugs out of my code… literally.
+- 🛠️ I once spent hours debugging, only to realize I forgot a semicolon.
+
+## 📫 Connect with Me:
+- 🌍 Portfolio: [Anzhelika Kostyuk](https://a-coderr.github.io/three_portfolio/)<br/>
+- 💼 LinkedIn: [Anzhelika Kostyuk](https://www.linkedin.com/in/anzhelikakostyuk/)<br/>
+- 🐙 GitHub: (Well... you found me, didn't you?)
