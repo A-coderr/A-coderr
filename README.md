@@ -7,7 +7,7 @@ I turn bugs into features (totally on purpose). If it involves ReactJS, Three.js
 ![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=algolia)
 </div>
 
-## 💪🏻 Tech Stack
+## 💪🏻 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
