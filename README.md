@@ -1,16 +1,28 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=a-coderr&style=for-the-badge&color=ff69b4"></br></br>
-<div align="center"><h1>Hi there! 👋 I'm Anzhelika</h1>
-<h3>🚀 Software Developer | Web Enthusiast | 3D Code Magician 🎩✨</h3>
-<p><a href="https://www.linkedin.com/in/anzhelikakostyuk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin"></a>
-  <a href="https://www.instagram.com/a_akcio/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
-  <a href="https://www.facebook.com/profile.php?id=100011369881132"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="My Facebook"></a></p>
-</div>
+<img src="https://komarev.com/ghpvc/?username=a-coderr&style=for-the-badge&color=ff69b4" alt="GitHub Profile Views" align="right">
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Your Image" width="400" align="right" style="margin-left: 20px;">
-  <br/>
-<h3> 👾 More About Me:</h3>
-<p>I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕. </p>
+  <h1>Hi there! 👋 I'm Anzhelika</h1>
+  <h3>🚀 Software Developer | Web Enthusiast | 3D Code Magician 🎩✨</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/anzhelikakostyuk/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    </a>
+    <a href="https://www.instagram.com/a_akcio/?hl=en" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100011369881132" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile">
+    </a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="About Me Image" width="400" align="right">
+  <h3>👾 More About Me</h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <p>I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕.</p>
 </div>
 
 <br clear="both">
@@ -53,9 +65,9 @@
 
 <br/>
 
-### 📊 My Stats:
+### 📊 My Stats
 ![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=algolia)
 
 <br/>
 
-<h2  align="center">⬇️ Check Out My Work ⬇️ </h2>
+<h2 align="center">⬇️ Check Out My Work ⬇️</h2>
