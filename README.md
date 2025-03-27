@@ -6,7 +6,7 @@
   <a href="https://www.facebook.com/profile.php?id=100011369881132"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="My Facebook"></a></p>
 </div>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+<img align="right" width="350px" height="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 <h3> 👾 More About Me:</h3>
 I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕. </br></br>
 
