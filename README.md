@@ -1,14 +1,19 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=a-coderr&style=for-the-badge&color=ff69b4"></br></br>
 <div align="center"><h1>Hi there! 👋 I'm Anzhelika</h1>
-<h3>🚀 Software Developer | 3D Code Magician 🎩✨</h3>
-
-I turn bugs into features (totally on purpose). If it involves ReactJS, Three.js, TypeScript, or Unity & C#, I’m 100% on board.</br></br>
-
-
-![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=algolia)
+<h3>🚀 Software Developer | Web Enthusiast | 3D Code Magician 🎩✨</h3>
+<p><a href="https://www.linkedin.com/in/anzhelikakostyuk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin"></a>
+  <a href="https://www.instagram.com/a_akcio/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=100011369881132"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="My Facebook"></a></p>
 </div>
 
-## 💪🏻 Languages and Tools
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+<h3> 👾 More About Me:</h3>
+I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕. </br></br>
+
+### 📊 My Stats:
+![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=algolia)
+
+## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,19 +46,5 @@ I turn bugs into features (totally on purpose). If it involves ReactJS, Three.js
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-## 💻 What I Do
-- 🎮 Digital Learning Experiences – Because learning should be more fun than reading 500-page docs!
-- 🌐 Web Development – Making the internet cooler one div at a time.
-- 🎨 3D & Game Development – Because why build a button when you can build an entire world?
-
-## 😁 Fun Facts:
-- 🥋 I can karate chop bugs out of my code… literally.
-- 🛠️ I once spent hours debugging, only to realize I forgot a semicolon.
-
-## 📫 Connect with Me:
-- 🌍 Portfolio: [Anzhelika Kostyuk](https://a-coderr.github.io/three_portfolio/)<br/>
-- 💼 LinkedIn: [Anzhelika Kostyuk](https://www.linkedin.com/in/anzhelikakostyuk/)<br/>
-- 🐙 GitHub: (Well... you found me, didn't you?)
 
 <h2  align="center">⬇️ Check Out My Work ⬇️ </h2>
