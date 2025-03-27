@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=a-coderr&style=for-the-badge&color=ff69b4" alt="GitHub Profile Views" align="right">
 
+<br/>
+
 <div align="center">
   <h1>Hi there! 👋 I'm Anzhelika</h1>
   <h3>🚀 Software Developer | Web Enthusiast | 3D Code Magician 🎩✨</h3>
@@ -22,7 +24,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="About Me Image" width="400" align="right">
   <h3>👾 More About Me</h3>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <p>I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕.</p>
+  <p>I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕</p>
 </div>
 
 <br clear="both">
