@@ -1,3 +1,4 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=a-coderr&style=for-the-badge&color=ff69b4"></br></br>
 <div align="center"><h1>Hi there! 👋 I'm Anzhelika</h1>
 <h3>🚀 Software Developer | 3D Code Magician 🎩✨</h3>
 
