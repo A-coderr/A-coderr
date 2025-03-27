@@ -6,14 +6,22 @@
   <a href="https://www.facebook.com/profile.php?id=100011369881132"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="My Facebook"></a></p>
 </div>
 
-<img align="right" width="350px" height="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Your Image" width="500" align="right" style="margin-left: 20px;">
+  <br/>
+  <br/>
+  <br/>
 <h3> 👾 More About Me:</h3>
-I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕. </br></br>
+<p>I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕. </p>
+</div>
 
-### 📊 My Stats:
-![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=algolia)
+<br clear="both">
 
-## 🛠️ Languages and Tools
+<hr/>
+
+<br/>
+
+### 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,5 +54,10 @@ I'm a software developer who loves building interactive 3D experiences, games, a
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+<br/>
+
+### 📊 My Stats:
+![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=algolia)
 
 <h2  align="center">⬇️ Check Out My Work ⬇️ </h2>
