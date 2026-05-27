@@ -4,16 +4,13 @@
 
 <div align="center">
   <h1>Hi there! 👋 I'm Anzhelika</h1>
-  <h3>🚀 Software Developer | Web Enthusiast | 3D Code Magician 🎩✨</h3>
+  <h3>🚀 Software Developer | Unity / C# | React / TypeScript | Interactive 3D & Web Applications ✨</h3>
   <p>
     <a href="https://www.linkedin.com/in/anzhelikakostyuk/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
-    <a href="https://www.instagram.com/a_akcio/?hl=en" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100011369881132" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile">
+    <a href="https://a-coderr.github.io/portfolio-website/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Website">
     </a>
   </p>
 </div>
