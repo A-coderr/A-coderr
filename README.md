@@ -34,7 +34,7 @@ Outside of code, I train in karate 🥋, drink a questionable amount of coffee �
 
 <hr/>
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <br/>
 
