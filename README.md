@@ -21,7 +21,13 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvbTJqeDE0ZWFpNGpyc3N0MGFyM2cxdmVqYW1jbW5lbzduOTkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="About Me Image" width="400" align="right">
   <h3>👾 More About Me</h3>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <p>I'm a software developer who loves building interactive 3D experiences, games, and web apps with ReactJS, Three.js, TypeScript, and Unity. I turn bugs into features (totally on purpose). If it's creative and involves code, I'm in! When I’m not debugging (or pretending I know what went wrong), you’ll find me practicing karate 🥋 or running on coffee ☕</p>
+  <p>I'm a Software Developer with 4 years of professional experience building web applications, interactive 3D experiences, and Unity-based projects.
+
+My strongest areas are **C#**, **Unity**, **React**, **TypeScript**, **JavaScript**, **Node.js**, and **frontend-heavy interactive applications**. I enjoy working on projects where code, design, usability, and problem-solving all meet — whether that is a web app, a game system, a 3D interface, or an internal tool that helps a team work better.
+
+I have worked on production software, collaborated with designers and DevOps teams, mentored junior/co-op developers, contributed to code reviews, and built features with maintainability, testing, and real users in mind.
+
+Outside of code, I train in karate 🥋, drink a questionable amount of coffee ☕, and like building things that feel good to use.</p>
 </div>
 
 <br clear="both">
