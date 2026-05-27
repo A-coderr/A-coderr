@@ -82,4 +82,32 @@ Outside of code, I train in karate 🥋, drink a questionable amount of coffee �
 
 <br/>
 
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-coderr&theme=tokyonight)
+
+</div>
+<br/>
+
+### Currently
+
+- Building game and web development projects
+- Improving my Unity gameplay architecture portfolio
+- Looking for software development, game development, and web development opportunities
+
+<br/>
+
+### Open To
+
+I'm currently open to roles in:
+
+- Software Development
+- Frontend / Web Development
+- Unity / Game Development
+- Interactive 3D Development
+
+I am especially interested in roles where I can build user-facing software, interactive systems, games, learning tools, or 3D web experiences.
+
+<br/>
+<br/>
 <h2 align="center">⬇️ Check Out My Work ⬇️</h2>
