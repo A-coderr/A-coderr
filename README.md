@@ -65,7 +65,11 @@
 <br/>
 
 ### 📊 My Stats
-![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-coderr&show_icons=true&theme=algolia)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=A-coderr&theme=tokyonight&hide_border=true)
+
+</div>
 
 <br/>
 
