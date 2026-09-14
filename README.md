@@ -39,6 +39,7 @@ Outside of code, I train in karate ðŸ¥‹ and spend too much time around coffee â˜
 <br/>
 
 **Core:**
+<br/>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -50,6 +51,7 @@ Outside of code, I train in karate ðŸ¥‹ and spend too much time around coffee â˜
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Supporting:**
+<br/>
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -68,31 +70,11 @@ Outside of code, I train in karate ðŸ¥‹ and spend too much time around coffee â˜
 
 <br/>
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-coderr&theme=tokyonight)
-
-</div>
-<br/>
-
 ### Currently
 
-- Building game and web development projects
-- Improving my Unity gameplay architecture portfolio
-- Looking for software development, game development, and web development opportunities
-
-<br/>
-
-### Open To
-
-I'm currently open to roles in:
-
-- Software Development
-- Frontend / Web Development
-- Unity / Game Development
-- Interactive 3D Development
-
-I am especially interested in roles where I can build user-facing software, interactive systems, games, learning tools, or 3D web experiences.
+- Building and refining Neon Chaser
+- Strengthening my software engineering and game-development portfolio
+- Open to full-time software engineering roles, including interactive 3D and Unity/gameplay positions
 
 <br/>
 <br/>
